@@ -2,4 +2,5 @@
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=movieatravelove) -->
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hello World!&center=true&size=27"> </a> </h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Teko&size=27&color=002FA7&background=FFFFFF00&center=false&vCenter=true&lines=Hello+World)](https://git.io/typing-svg)
